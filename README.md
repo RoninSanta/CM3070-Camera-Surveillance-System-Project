@@ -23,6 +23,10 @@ Install the text file FIRST!! before running any of the scripts or else it won't
 - This script will play stored video clips from different scenarios and apply AI algorithm to identify objects
 - The objects in the clips will be catergorised and tracked showcasing the capabilities of the OpenCV & YOLO framework
 - The objective is to showcase the different scenarios which it works like example:
+
+#### Size Issue ####
+- The yolov3.weights is currently over 200MB therefore, you might have an issue trying to download it
+- However, it is very crucial since it contains the pre-trained model for the classifier
 - It helps to identify house pets i.e cats and dogs
 - It works in low light conditiosn like at night
 
