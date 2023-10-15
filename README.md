@@ -1,5 +1,4 @@
-![Video_Playlist_GUI](https://github.com/RoninSanta/CM3070-Camera-Surveillance-System-Project/assets/109457795/ada3d4d8-2869-4183-ae65-cc70949212b9)# CM3070-Final-Year-Project
-Camera Surveillance System
+# Camera Surveillance System
 ## Object Tracking and Identification using OpenCV and YOLO framework 
 
 ## Installation - READ FIRST! ##
@@ -31,21 +30,22 @@ Install the text file FIRST!! before running any of the scripts or else it won't
 
 ### [Youtube Link]
 I have provided a youtube link where I demo the application, you can see the full capabilities and the functions of my application via the link below:
+
 [Youtube Link](https://youtu.be/5VUF1SD0QZ4)
 
 
 ### [Output Images]
 Here are the output screenshots from my app:
 
-[***Video Playlist GUI*]
+[*Video Playlist GUI*]
 ![Video_Playlist_GUI](https://github.com/RoninSanta/CM3070-Camera-Surveillance-System-Project/assets/109457795/3610c982-b157-491a-b991-e6dc27d6ae72)
 
-[***Object Identification*]
+[*Object Identification*]
 
 ![Object_Identification](https://github.com/RoninSanta/CM3070-Camera-Surveillance-System-Project/assets/109457795/488336cc-da2e-47f1-b519-0502f63fd09e)
 -It has successfully identified the dog and the tennis ball in the moving footage
 
-[***Intruder Alert*]
+[*Intruder Alert*]
 ![Intruder Alert](https://github.com/RoninSanta/CM3070-Camera-Surveillance-System-Project/assets/109457795/dd9d1d18-86c8-4e26-9362-65ccf6644b38)
 - When an intruder has been detected, the system sends out an alert and the camera will track the movements of the intruder
 
